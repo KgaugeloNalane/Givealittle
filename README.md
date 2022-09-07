@@ -1,4 +1,5 @@
 [![CircleCI](https://circleci.com/gh/KgaugeloNalane/Givealittle/tree/main.svg?style=svg)](https://circleci.com/gh/KgaugeloNalane/Givealittle/tree/main)
+[![codecov](https://codecov.io/gh/KgaugeloNalane/Givealittle/branch/main/graph/badge.svg?token=ZBCQIOX3CU)](https://codecov.io/gh/KgaugeloNalane/Givealittle)
 
 # Getting Started with Create React App
 
